@@ -1,15 +1,19 @@
 {
-    "name" : "mashape/unirest-php",
-    "description" : "Unirest PHP",
+    "name" : "joseleperez/unirest-php",
+    "description" : "Unirest PHP Proxy",
     "keywords" : ["rest", "curl", "http", "client"],
     "type" : "library",
-    "homepage" : "https://github.com/Mashape/unirest-php",
+    "homepage" : "https://github.com/joseleperez/unirest-php",
     "license" : "MIT",
     "authors" : [
         {
             "name" : "Mashape",
             "email" : "support@mashape.com",
             "homepage" : "http://mashape.com"
+        },
+        {
+            "name" : "José Luis Pérez",
+            "email" : "elpunto@gmail.com"
         }
     ],
     "require" : {
@@ -26,6 +30,6 @@
         }
     },
     "support" : {
-        "email" : "support@mashape.com"
+        "email" : "elpunto@gmail.com"
     }
 }
